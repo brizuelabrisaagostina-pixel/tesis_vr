@@ -1,0 +1,13 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vs/
+*.opensdf
+*.VC.db
+*.suo
+*.sln
+*.obb
+*.apk
+*.so
